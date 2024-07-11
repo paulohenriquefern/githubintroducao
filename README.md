@@ -11,6 +11,12 @@ git commit -m "Mensagem de Envio"
 git push origin nomedabranch
 - Comando responsável por enviar as modificações para a branch do repositório
 
+--------------------------
+
+#### comandos de navegacao
+
+###### Git checkout NomeDaBrach
+
 #### comandos de criacao de branch
 
 ###### git checkout -b nomedabranch

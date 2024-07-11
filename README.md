@@ -16,3 +16,7 @@ git push origin nomedabranch
 #### comandos de navegacao
 
 ###### Git checkout NomeDaBrach
+
+#### comandos de criacao de branch
+
+###### git checkout -b nomedabranch
